@@ -1,0 +1,86 @@
+*{padding: 0; margin: 0}
+
+body {
+	background: #FEC7B4; margin-top: 25px;
+}
+
+header {
+	width: 900px; background: #803D3B; padding: 25px;
+	margin: auto; text-align: center; color: #000000;
+}
+
+menu {width: 900px; background: #DD5746; margin: auto; 
+padding: 25px}
+
+menu a {
+	color: ghostwhite; text-decoration: none;
+	margin-right: 20px;
+}
+
+menu a:hover {
+	color: #0D1282; text-decoration: underline;
+}
+
+article {
+	width: 900px; background: #FF8400;
+	margin: auto; padding: 25px;
+	text-align: center;
+}
+
+article img {
+	float: left;
+	width: 350px; height: 250px;
+margin: 0 0 0 0;
+}
+
+article h1 {
+	margin: 0 0 15px 0;
+}
+
+article p {
+	margin: 0 0 25px 0;
+}
+
+article h2 {
+	margin: auto;
+	text-align: center;
+	color: #000000;
+}
+
+article h4 {
+	width: 800px; background: whitesmoke; margin: auto;
+	padding: 25px;text-align: center;
+	margin:  25px 40px 20px 30px;
+	color: #C21010;
+}
+
+article img {
+	float: right; width: 270px; height: 240px;
+	margin: auto;
+}
+
+article h5 {
+	width: 560px; background: whitesmoke; margin: 0 0 0 0;
+	padding: 30px;
+	color: #C21010;
+}
+
+article a:hover {
+	color: black; text-decoration: underline;
+}
+
+body h3 {
+	width: 900px; background: #; padding: 25px;
+	margin: auto;
+}
+
+footer {
+width: 900px; background: #803D3B;
+margin: auto;
+padding: 25px;
+text-align: center;
+}
+
+footer p {
+	color: lightblue;
+}
